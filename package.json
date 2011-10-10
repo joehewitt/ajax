@@ -1,0 +1,19 @@
+{
+  "name": "ajax",
+  "description": "Asynchronously fetch JSON and XML.",
+  "version": "0.0.1",
+  "homepage": "http://github.com/joehewitt/ajax",
+  "repository": {
+      "type": "git",
+      "url" : "http://github.com/joehewitt/ajax.git"
+  },
+  "keywords": ["xhr", "ajax"],
+  "author": "Joe Hewitt <joe@joehewitt.com>",
+  "contributors": [],
+  "dependencies": {     
+    "underscore": "" 
+  },
+  "engines": { "node": ">=0.4.0" },
+  "main": "./lib/ajax",
+  "directories": {}
+}
