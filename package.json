@@ -1,6 +1,6 @@
 {
   "name": "ajax",
-  "description": "Asynchronously fetch JSON and XML.",
+  "description": "Utilities for loading JSON and XML.",
   "version": "0.0.1",
   "homepage": "http://github.com/joehewitt/ajax",
   "repository": {
