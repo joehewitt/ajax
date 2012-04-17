@@ -1,19 +1,25 @@
 {
   "name": "ajax",
   "description": "Utilities for loading JSON and XML.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "homepage": "http://github.com/joehewitt/ajax",
   "repository": {
-      "type": "git",
-      "url" : "http://github.com/joehewitt/ajax.git"
+    "type": "git",
+    "url": "git://github.com/joehewitt/ajax.git"
   },
-  "keywords": ["xhr", "ajax"],
+  "keywords": [
+    "xhr",
+    "ajax"
+  ],
   "author": "Joe Hewitt <joe@joehewitt.com>",
   "contributors": [],
-  "dependencies": {     
-    "underscore": "" 
+  "dependencies": {
+    "underscore": ""
   },
-  "engines": { "node": ">=0.4.0" },
+  "engines": {
+    "node": ">=0.4.0"
+  },
   "main": "./lib/ajax",
-  "directories": {}
+  "directories": {},
+  "devDependencies": {}
 }
