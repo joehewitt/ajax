@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/joehewitt/ajax.png)](http://travis-ci.org/joehewitt/ajax)
 ajax
 ========
 
