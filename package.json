@@ -1,7 +1,7 @@
 {
   "name": "ajax",
   "description": "Utilities for loading JSON and XML.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "homepage": "http://github.com/joehewitt/ajax",
   "repository": {
     "type": "git",
