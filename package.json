@@ -13,9 +13,7 @@
   ],
   "author": "Joe Hewitt <joe@joehewitt.com>",
   "contributors": [],
-  "dependencies": {
-    "underscore": ""
-  },
+  "dependencies": {},
   "engines": {
     "node": ">=0.4.0"
   },
